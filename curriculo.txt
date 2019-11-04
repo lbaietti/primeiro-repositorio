@@ -1,0 +1,10 @@
+curriculum
+
+nome: Lucas Araujo Baietti
+rua: José Amaro Peçanha 127
+tel: 995146705
+email: lucas.baietti@gmail.com
+  
+  Dados escolares
+  - Ensino médio (completo)
+  - Análise e desenvolvimento de sistemas
